@@ -1,0 +1,15 @@
+This is a React project with 2 Quiz components.
+
+## Tech Stack
+-React
+-JavaScript
+-css
+-HTML
+
+## Files
+- 'QuizApp.jsx' - Main quiz component
+- 'QuizData.jsx'- Contains the quiz questions and data
+- 'index.js'- Entry point to start the app
+- 'QuizApp.css' - Styling for the app
+
+Made by: @itsmehoney13
